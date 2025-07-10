@@ -2,13 +2,6 @@
 Files related Interactive Dashboard in Power BI Lesson video available on YouTube
 <Br>
 
-
-
-
-👉 Watch Video : <br><br>
-
-
-<br><br>
 👉 You will be able to build Dashboard like below <br><br>
 👆 [Click Here View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzEwYzYzOTYtOWRkNC00ZWM5LTkwM2MtNWE2YmI2YzkzNWY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 <br><br>
